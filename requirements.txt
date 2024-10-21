@@ -1,7 +1,3 @@
-# Removed pywin32
-# pywin32==307
-
-# Existing dependencies
 accelerate==1.0.1
 aiohappyeyeballs==2.4.3
 aiohttp==3.10.10
@@ -16,6 +12,5 @@ async-lru==2.0.4
 async-timeout==4.0.3
 attrs==24.2.0
 auto_gptq==0.7.1
-
-# Add PyTorch as a dependency
 torch>=1.13.0
+# Removed pywin32
