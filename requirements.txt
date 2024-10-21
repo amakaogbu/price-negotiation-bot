@@ -11,10 +11,8 @@ asttokens==2.4.1
 async-lru==2.0.4
 async-timeout==4.0.3
 attrs==24.2.0
-auto_gptq==0.7.1
 babel==2.16.0
 beautifulsoup4==4.12.3
-bitsandbytes==0.44.1
 bleach==6.1.0
 blinker==1.8.2
 build==1.2.2.post1
@@ -45,7 +43,6 @@ GitPython==3.1.43
 h11==0.14.0
 httpcore==1.0.6
 httpx==0.27.2
-huggingface-hub==0.25.2
 humanfriendly==10.0
 idna==3.10
 importlib_metadata==8.5.0
